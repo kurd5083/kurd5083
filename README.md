@@ -86,17 +86,6 @@
 
 ---
 
-### 📫 Контакты
-
-<p>
-  <a href="https://t.me/kurdnika"><img src="https://img.shields.io/badge/Telegram-@kurdnika-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:nikitakurdiasko@gmail.com"><img src="https://img.shields.io/badge/Email-nikitakurdiasko@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/kurd5083"><img src="https://img.shields.io/badge/GitHub-kurd5083-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://portfoliokurdnika.netlify.app/"><img src="https://img.shields.io/badge/Портфолио-portfolio.kurdnika.netlify.app-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-</p>
-
----
-
 ### 📊 GitHub статистика
 
 <p align="center">
