@@ -12,25 +12,6 @@
 
 ## 📊 Опыт работы: 3 года 10 месяцев
 
-### 🚀 Стартап (Декабрь 2025 — настоящее время)
-**Frontend разработчик (React)**
-
-- 🤖 **AI Post** — [aiposting.live](https://aiposting.live/)
-- 💳 **GRAMBEE** — [Telegram Bot](https://t.me/GRAMBEEBOT)
-
----
-
-### 🛍️ Коммерческие проекты (Июнь 2024 — Ноябрь 2025)
-**Frontend разработчик (React/Next.js)**
-
-- 🌍 Интернет-магазины (DE, UK, FR) — [klassikgames-de.netlify.app](https://klassikgames-de.netlify.app/) | [gamekool-de.netlify.app](https://gamekool-de.netlify.app/)
-- 🔍 RAWG Game Search — личный проект
-
----
-
-### 📚 LMS для ресторанного холдинга (Июль 2022 — Июнь 2024)
-**Frontend разработчик (React)** | Xen_LP, Краснодар
-
 ---
 
 ## 🛠 Технологический стек
