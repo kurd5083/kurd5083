@@ -1,65 +1,84 @@
-# 👋 Привет, я Никита Курдияшко
+<div align="center">
+  
+# ✨ Никита Курдияшко ✨
 
-**Middle Frontend Developer** (React, Next.js, TypeScript)  
-📍 Ростов-на-Дону | 🎂 22 года | 📱 [@kurdnika](https://t.me/kurdnika)
+**Middle Frontend Developer** · React · Next.js · TypeScript
+
+📍 Ростов-на-Дону &nbsp;•&nbsp; 🎂 22 года &nbsp;•&nbsp; 📱 [@kurdnika](https://t.me/kurdnika)
+
+<br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@kurdnika-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kurdnika)
 [![Email](https://img.shields.io/badge/Email-nikitakurdiasko@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitakurdiasko@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kurd5083-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kurd5083)
 [![Портфолио](https://img.shields.io/badge/Портфолио-portfolio.kurdnika.netlify.app-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://portfoliokurdnika.netlify.app/)
 
----
-
-## 📊 Опыт работы: 3 года 10 месяцев
+</div>
 
 ---
 
-## 🛠 Технологический стек
+### 📊 Опыт работы
 
-### Основные
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### State Management
-![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=flat-square&logo=react&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
-
-### Стилизация
-![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
-
-### Инструменты
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### Тестирование
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+> **3 года 10 месяцев** коммерческой разработки
 
 ---
 
-## 📈 Ключевые достижения
+### 🛠 Технологический стек
+
+#### Основные
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+#### State Management
+<p>
+  <img src="https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
+</p>
+
+#### Стилизация
+<p>
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
+</p>
+
+#### Инструменты
+<p>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+#### Тестирование
+<p>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+</p>
+
+---
+
+### 📈 Ключевые достижения
 
 | Метрика | Результат |
-|---------|-----------|
-| **Lighthouse** | 90+ баллов во всех проектах |
-| **Загрузка таблиц** | 2-3 сек → 300-500 мс |
-| **Настройка кампании (GRAMBEE)** | 15-20 мин → 2-3 мин |
-| **Создание постов (AI Post)** | В 3 раза быстрее |
-| **Время релиза** | 10-15 мин → 2-3 мин |
+|:--------|----------:|
+| **Lighthouse** | 🏆 90+ баллов |
+| **Загрузка таблиц** | ⚡ 2-3 сек → 300-500 мс |
+| **Настройка кампании (GRAMBEE)** | 🚀 15-20 мин → 2-3 мин |
+| **Создание постов (AI Post)** | 🔥 В 3 раза быстрее |
+| **Время релиза** | 💨 10-15 мин → 2-3 мин |
 
 ---
 
-## 🎯 Обо мне
+### 🎯 Обо мне
 
-Моя главная цель — углубляться в React и его экосистему, стать настоящим профи в этой области. Хочу знать React так, чтобы видеть не только "как сделать", но и "как сделать правильно и масштабируемо".
+> Моя главная цель — углубляться в React и его экосистему, стать настоящим профи в этой области. Хочу знать React так, чтобы видеть не только "как сделать", но и "как сделать правильно и масштабируемо".
 
 В работе ценю **понятные процессы** и **свободу**. Когда нет бюрократии, но есть чёткое понимание, что и зачем мы делаем.
 
@@ -67,18 +86,24 @@
 
 ---
 
-## 📫 Контакты
+### 📫 Контакты
 
-- **Telegram:** [@kurdnika](https://t.me/kurdnika)
-- **Email:** [nikitakurdiasko@gmail.com](mailto:nikitakurdiasko@gmail.com)
-- **GitHub:** [github.com/kurd5083](https://github.com/kurd5083)
-- **Портфолио:** [portfolio.kurdnika.netlify.app](https://portfolio.kurdnika.netlify.app)
+<p>
+  <a href="https://t.me/kurdnika"><img src="https://img.shields.io/badge/Telegram-@kurdnika-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:nikitakurdiasko@gmail.com"><img src="https://img.shields.io/badge/Email-nikitakurdiasko@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/kurd5083"><img src="https://img.shields.io/badge/GitHub-kurd5083-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://portfoliokurdnika.netlify.app/"><img src="https://img.shields.io/badge/Портфолио-portfolio.kurdnika.netlify.app-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📊 GitHub статистика
+### 📊 GitHub статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurd5083&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurd5083&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kurd5083&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurd5083&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB" width="40%" />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=kurd5083&color=blue&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kurd5083&color=61DAFB&style=flat-square&label=👁️+Profile+Views" />
+</p>
