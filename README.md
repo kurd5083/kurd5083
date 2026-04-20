@@ -1,102 +1,95 @@
-<svg width="100%" height="280" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00ffff"/>
-      <stop offset="50%" stop-color="#ff00ff"/>
-      <stop offset="100%" stop-color="#00ffff"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        * {
-          margin: 0;
-          padding: 0;
-          box-sizing: border-box;
-        }
-        body {
-          background: linear-gradient(135deg, #0a0f1e 0%, #03050b 100%);
-          font-family: 'Courier New', 'Fira Code', monospace;
-          padding: 2rem;
-          border-radius: 24px;
-          border: 1px solid rgba(0, 255, 255, 0.4);
-          box-shadow: 0 0 30px rgba(0, 255, 255, 0.2);
-        }
-        .glitch {
-          font-size: 3rem;
-          font-weight: bold;
-          background: linear-gradient(135deg, #fff, #0ff, #f0f);
-          -webkit-background-clip: text;
-          background-clip: text;
-          color: transparent;
-          animation: glitch 2s infinite;
-          text-align: center;
-        }
-        @keyframes glitch {
-          0%, 100% { text-shadow: -2px 0 red, 2px 0 cyan; }
-          25% { text-shadow: -3px 0 cyan, 3px 0 red; }
-          50% { text-shadow: 2px 0 red, -2px 0 blue; }
-          75% { text-shadow: -2px 0 lime, 2px 0 magenta; }
-        }
-        .subtitle {
-          text-align: center;
-          color: #0ff;
-          font-size: 1.2rem;
-          margin: 1rem 0;
-          letter-spacing: 2px;
-          animation: pulse 1.5s infinite alternate;
-        }
-        @keyframes pulse {
-          from { text-shadow: 0 0 2px cyan; opacity: 0.8; }
-          to { text-shadow: 0 0 15px cyan; opacity: 1; }
-        }
-        .stats {
-          display: flex;
-          justify-content: center;
-          gap: 2rem;
-          margin-top: 1.5rem;
-          flex-wrap: wrap;
-        }
-        .stat {
-          background: rgba(0, 255, 255, 0.1);
-          border: 1px solid cyan;
-          border-radius: 40px;
-          padding: 0.5rem 1.2rem;
-          font-size: 0.85rem;
-          color: #0ff;
-        }
-        .code-line {
-          text-align: center;
-          color: #6c7a9e;
-          font-size: 0.75rem;
-          margin-top: 1rem;
-        }
-        .code-line::before {
-          content: ">";
-          color: #0ff;
-          margin-right: 8px;
-        }
-      </style>
-      
-      <div class="glitch">⚡ НИКИТА КУРДИЯШКО ⚡</div>
-      <div class="subtitle">Middle Frontend Developer · React · Next.js · TypeScript</div>
-      
-      <div class="stats">
-        <div class="stat">📊 3 года 10 месяцев</div>
-        <div class="stat">🚀 90+ Lighthouse</div>
-        <div class="stat">💻 30+ проектов</div>
-        <div class="stat">🎨 Telegram Mini Apps</div>
-      </div>
-      
-      <div class="code-line">system.status = "READY" | profile.optimized = true</div>
-    </div>
-  </foreignObject>
-</svg>
+<div align="center">
+
+<!-- ASCII-Арт / Терминальный баннер -->
+<pre>
+<span style="color: #00ff9d;">╔════════════════════════════════════════════════════════════════╗</span>
+<span style="color: #00ff9d;">║</span>  ███╗   ██╗██╗██╗  ██╗██╗████████╗ █████╗                 <span style="color: #00ff9d;">║</span>
+<span style="color: #00ff9d;">║</span>  ████╗  ██║██║██║ ██╔╝██║╚══██╔══╝██╔══██╗                <span style="color: #00ff9d;">║</span>
+<span style="color: #00ff9d;">║</span>  ██╔██╗ ██║██║█████╔╝ ██║   ██║   ███████║                <span style="color: #00ff9d;">║</span>
+<span style="color: #00ff9d;">║</span>  ██║╚██╗██║██║██╔═██╗ ██║   ██║   ██╔══██║                <span style="color: #00ff9d;">║</span>
+<span style="color: #00ff9d;">║</span>  ██║ ╚████║██║██║  ██╗██║   ██║   ██║  ██║                <span style="color: #00ff9d;">║</span>
+<span style="color: #00ff9d;">║</span>  ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝                <span style="color: #00ff9d;">║</span>
+<span style="color: #00ff9d;">╠════════════════════════════════════════════════════════════════╣</span>
+<span style="color: #00ff9d;">║</span>  <span style="color: #ff00a0;">❯</span> <span style="color: #00b8ff;">whoami</span>                    <span style="color: #4a8a7a;">// Middle Frontend Developer</span>   <span style="color: #00ff9d;">║</span>
+<span style="color: #00ff9d;">║</span>  <span style="color: #ff00a0;">❯</span> <span style="color: #00b8ff;">pwd</span>                       <span style="color: #4a8a7a;">// Rostov-on-Don, Russia</span>        <span style="color: #00ff9d;">║</span>
+<span style="color: #00ff9d;">║</span>  <span style="color: #ff00a0;">❯</span> <span style="color: #00b8ff;">echo $AGE</span>                  <span style="color: #4a8a7a;">// 22 y.o.</span>                       <span style="color: #00ff9d;">║</span>
+<span style="color: #00ff9d;">║</span>  <span style="color: #ff00a0;">❯</span> <span style="color: #00b8ff;">cat experience.txt</span>         <span style="color: #4a8a7a;">// 3 years 10 months</span>             <span style="color: #00ff9d;">║</span>
+<span style="color: #00ff9d;">╚════════════════════════════════════════════════════════════════╝</span>
+</pre>
+
+<!-- Неоновые контакты -->
+<p align="center">
+  <a href="https://t.me/kurdnika">
+    <img src="https://img.shields.io/badge/📱_TELEGRAM-@kurdnika-00ff9d?style=for-the-badge&logo=telegram&logoColor=00ff9d&color=0D1117&labelColor=0D1117&borderColor=00ff9d" />
+  </a>
+  <a href="mailto:nikitakurdiasko@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_EMAIL-nikitakurdiasko@gmail.com-ff00a0?style=for-the-badge&logo=gmail&logoColor=ff00a0&color=0D1117&labelColor=0D1117&borderColor=ff00a0" />
+  </a>
+  <a href="https://github.com/kurd5083">
+    <img src="https://img.shields.io/badge/⎇_GITHUB-kurd5083-00b8ff?style=for-the-badge&logo=github&logoColor=00b8ff&color=0D1117&labelColor=0D1117&borderColor=00b8ff" />
+  </a>
+  <a href="https://portfoliokurdnika.netlify.app/">
+    <img src="https://img.shields.io/badge/🚀_PORTFOLIO-portfolio.kurdnika.netlify.app-00ff9d?style=for-the-badge&logo=netlify&logoColor=00ff9d&color=0D1117&labelColor=0D1117&borderColor=00ff9d" />
+  </a>
+</p>
+
+</div>
+
+---
+
+### 🖥️ ТЕХНИЧЕСКИЙ СТЕК
+
+<details open>
+<summary><span style="color: #00ff9d;">❯</span> <span style="color: #ff00a0;">./core --list</span> <span style="color: #4a8a7a;">// Основные технологии</span></summary>
+<br>
+
+| Категория | Технологии |
+|-----------|------------|
+| **🧩 Framework** | `React` `Next.js` |
+| **📝 Language** | `TypeScript` `JavaScript` |
+| **🗃️ State** | `Zustand` `Redux Toolkit` `TanStack Query` |
+| **🎨 Styling** | `styled-components` `TailwindCSS` `SCSS` `Ant Design` |
+| **🔧 Tools** | `Vite` `Git` `CI/CD` `Docker` |
+| **🧪 Testing** | `Vitest` `Jest` |
+
+</details>
+
+<br>
+
+<!-- Стек бейджами -->
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00ff9d&color=0D1117&borderColor=00ff9d" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00b8ff&color=0D1117&borderColor=00b8ff" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=ff00a0&color=0D1117&borderColor=ff00a0" />
+  <img src="https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=react&logoColor=00ff9d&color=0D1117&borderColor=00ff9d" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=ff00a0&color=0D1117&borderColor=ff00a0" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=00b8ff&color=0D1117&borderColor=00b8ff" />
+  <img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ff00a0&color=0D1117&borderColor=ff00a0" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=00ff9d&color=0D1117&borderColor=00ff9d" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=00b8ff&color=0D1117&borderColor=00b8ff" />
+</p>
+
+---
+
+### 🎯 ОБО МНЕ
+
+```bash
+<span style="color: #00ff9d;">$</span> <span style="color: #ff00a0;">cat about.txt</span>
+
+<span style="color: #4a8a7a;">// Моя главная цель — углубляться в React и его экосистему</span>
+<span style="color: #00b8ff;">export const</span> <span style="color: #00ff9d;">goal</span> = <span style="color: #ff00a0;">"Стать профи в React, понимать не только 'как', но и 'как правильно и масштабируемо'"</span>
+
+<span style="color: #4a8a7a;">// Ценности в работе</span>
+<span style="color: #00b8ff;">const</span> <span style="color: #00ff9d;">values</span> = {
+  processes: <span style="color: #ff00a0;">"понятные процессы без бюрократии"</span>,
+  freedom: <span style="color: #ff00a0;">"свобода и честные дедлайны"</span>,
+  quality: <span style="color: #ff00a0;">"качество и масштабируемость"</span>
+}
+
+<span style="color: #4a8a7a;">// Коротко обо мне</span>
+<span style="color: #00b8ff;">const</span> <span style="color: #00ff9d;">me</span> = {
+  reliable: <span style="color: #ff00a0;">true</span>,           <span style="color: #4a8a7a;">// надёжный</span>
+  curious: <span style="color: #ff00a0;">true</span>,            <span style="color: #4a8a7a;">// люблю разбираться</span>
+  finisher: <span style="color: #ff00a0;">true</span>,          <span style="color: #4a8a7a;">// довожу до конца</span>
+  askQuestions: <span style="color: #ff00a0;">true</span>      <span style="color: #4a8a7a;">// не боюсь неудобных вопросов</span>
+}
