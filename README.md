@@ -1,95 +1,86 @@
 <div align="center">
+  
+# ✨ Никита Курдияшко ✨
 
-<!-- ASCII-Арт / Терминальный баннер -->
-<pre>
-<span style="color: #00ff9d;">╔════════════════════════════════════════════════════════════════╗</span>
-<span style="color: #00ff9d;">║</span>  ███╗   ██╗██╗██╗  ██╗██╗████████╗ █████╗                 <span style="color: #00ff9d;">║</span>
-<span style="color: #00ff9d;">║</span>  ████╗  ██║██║██║ ██╔╝██║╚══██╔══╝██╔══██╗                <span style="color: #00ff9d;">║</span>
-<span style="color: #00ff9d;">║</span>  ██╔██╗ ██║██║█████╔╝ ██║   ██║   ███████║                <span style="color: #00ff9d;">║</span>
-<span style="color: #00ff9d;">║</span>  ██║╚██╗██║██║██╔═██╗ ██║   ██║   ██╔══██║                <span style="color: #00ff9d;">║</span>
-<span style="color: #00ff9d;">║</span>  ██║ ╚████║██║██║  ██╗██║   ██║   ██║  ██║                <span style="color: #00ff9d;">║</span>
-<span style="color: #00ff9d;">║</span>  ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝                <span style="color: #00ff9d;">║</span>
-<span style="color: #00ff9d;">╠════════════════════════════════════════════════════════════════╣</span>
-<span style="color: #00ff9d;">║</span>  <span style="color: #ff00a0;">❯</span> <span style="color: #00b8ff;">whoami</span>                    <span style="color: #4a8a7a;">// Middle Frontend Developer</span>   <span style="color: #00ff9d;">║</span>
-<span style="color: #00ff9d;">║</span>  <span style="color: #ff00a0;">❯</span> <span style="color: #00b8ff;">pwd</span>                       <span style="color: #4a8a7a;">// Rostov-on-Don, Russia</span>        <span style="color: #00ff9d;">║</span>
-<span style="color: #00ff9d;">║</span>  <span style="color: #ff00a0;">❯</span> <span style="color: #00b8ff;">echo $AGE</span>                  <span style="color: #4a8a7a;">// 22 y.o.</span>                       <span style="color: #00ff9d;">║</span>
-<span style="color: #00ff9d;">║</span>  <span style="color: #ff00a0;">❯</span> <span style="color: #00b8ff;">cat experience.txt</span>         <span style="color: #4a8a7a;">// 3 years 10 months</span>             <span style="color: #00ff9d;">║</span>
-<span style="color: #00ff9d;">╚════════════════════════════════════════════════════════════════╝</span>
-</pre>
+**Middle Frontend Developer** · React · Next.js · TypeScript
 
-<!-- Неоновые контакты -->
-<p align="center">
-  <a href="https://t.me/kurdnika">
-    <img src="https://img.shields.io/badge/📱_TELEGRAM-@kurdnika-00ff9d?style=for-the-badge&logo=telegram&logoColor=00ff9d&color=0D1117&labelColor=0D1117&borderColor=00ff9d" />
-  </a>
-  <a href="mailto:nikitakurdiasko@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_EMAIL-nikitakurdiasko@gmail.com-ff00a0?style=for-the-badge&logo=gmail&logoColor=ff00a0&color=0D1117&labelColor=0D1117&borderColor=ff00a0" />
-  </a>
-  <a href="https://github.com/kurd5083">
-    <img src="https://img.shields.io/badge/⎇_GITHUB-kurd5083-00b8ff?style=for-the-badge&logo=github&logoColor=00b8ff&color=0D1117&labelColor=0D1117&borderColor=00b8ff" />
-  </a>
-  <a href="https://portfoliokurdnika.netlify.app/">
-    <img src="https://img.shields.io/badge/🚀_PORTFOLIO-portfolio.kurdnika.netlify.app-00ff9d?style=for-the-badge&logo=netlify&logoColor=00ff9d&color=0D1117&labelColor=0D1117&borderColor=00ff9d" />
-  </a>
-</p>
+📍 Ростов-на-Дону &nbsp;•&nbsp; 🎂 22 года &nbsp;•&nbsp; 📱 [@kurdnika](https://t.me/kurdnika)
+
+<br>
+
+[![Telegram](https://img.shields.io/badge/Telegram-@kurdnika-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kurdnika)
+[![Email](https://img.shields.io/badge/Email-nikitakurdiasko@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitakurdiasko@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-kurd5083-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kurd5083)
+[![Портфолио](https://img.shields.io/badge/Портфолио-portfolio.kurdnika.netlify.app-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://portfoliokurdnika.netlify.app/)
 
 </div>
 
 ---
 
-### 🖥️ ТЕХНИЧЕСКИЙ СТЕК
+### 📊 Опыт работы
 
-<details open>
-<summary><span style="color: #00ff9d;">❯</span> <span style="color: #ff00a0;">./core --list</span> <span style="color: #4a8a7a;">// Основные технологии</span></summary>
-<br>
+> **3 года 10 месяцев** коммерческой разработки
 
-| Категория | Технологии |
-|-----------|------------|
-| **🧩 Framework** | `React` `Next.js` |
-| **📝 Language** | `TypeScript` `JavaScript` |
-| **🗃️ State** | `Zustand` `Redux Toolkit` `TanStack Query` |
-| **🎨 Styling** | `styled-components` `TailwindCSS` `SCSS` `Ant Design` |
-| **🔧 Tools** | `Vite` `Git` `CI/CD` `Docker` |
-| **🧪 Testing** | `Vitest` `Jest` |
+---
 
-</details>
+### 🛠 Технологический стек
 
-<br>
+#### Основные
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-<!-- Стек бейджами -->
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00ff9d&color=0D1117&borderColor=00ff9d" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00b8ff&color=0D1117&borderColor=00b8ff" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=ff00a0&color=0D1117&borderColor=ff00a0" />
-  <img src="https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=react&logoColor=00ff9d&color=0D1117&borderColor=00ff9d" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=ff00a0&color=0D1117&borderColor=ff00a0" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=00b8ff&color=0D1117&borderColor=00b8ff" />
-  <img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ff00a0&color=0D1117&borderColor=ff00a0" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=00ff9d&color=0D1117&borderColor=00ff9d" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=00b8ff&color=0D1117&borderColor=00b8ff" />
+#### State Management
+<p>
+  <img src="https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
+</p>
+
+#### Стилизация
+<p>
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
+</p>
+
+#### Инструменты
+<p>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+#### Тестирование
+<p>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
 ---
 
-### 🎯 ОБО МНЕ
+### 🎯 Обо мне
 
-```bash
-<span style="color: #00ff9d;">$</span> <span style="color: #ff00a0;">cat about.txt</span>
+> Моя главная цель — углубляться в React и его экосистему, стать настоящим профи в этой области. Хочу знать React так, чтобы видеть не только "как сделать", но и "как сделать правильно и масштабируемо".
 
-<span style="color: #4a8a7a;">// Моя главная цель — углубляться в React и его экосистему</span>
-<span style="color: #00b8ff;">export const</span> <span style="color: #00ff9d;">goal</span> = <span style="color: #ff00a0;">"Стать профи в React, понимать не только 'как', но и 'как правильно и масштабируемо'"</span>
+В работе ценю **понятные процессы** и **свободу**. Когда нет бюрократии, но есть чёткое понимание, что и зачем мы делаем.
 
-<span style="color: #4a8a7a;">// Ценности в работе</span>
-<span style="color: #00b8ff;">const</span> <span style="color: #00ff9d;">values</span> = {
-  processes: <span style="color: #ff00a0;">"понятные процессы без бюрократии"</span>,
-  freedom: <span style="color: #ff00a0;">"свобода и честные дедлайны"</span>,
-  quality: <span style="color: #ff00a0;">"качество и масштабируемость"</span>
-}
+**Коротко о себе:** надёжный, люблю разбираться, умею доводить до конца и не боюсь задавать неудобные вопросы.
 
-<span style="color: #4a8a7a;">// Коротко обо мне</span>
-<span style="color: #00b8ff;">const</span> <span style="color: #00ff9d;">me</span> = {
-  reliable: <span style="color: #ff00a0;">true</span>,           <span style="color: #4a8a7a;">// надёжный</span>
-  curious: <span style="color: #ff00a0;">true</span>,            <span style="color: #4a8a7a;">// люблю разбираться</span>
-  finisher: <span style="color: #ff00a0;">true</span>,          <span style="color: #4a8a7a;">// довожу до конца</span>
-  askQuestions: <span style="color: #ff00a0;">true</span>      <span style="color: #4a8a7a;">// не боюсь неудобных вопросов</span>
-}
+---
+
+### 📊 GitHub статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kurd5083&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurd5083&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kurd5083&color=61DAFB&style=flat-square&label=👁️+Profile+Views" />
+</p>
